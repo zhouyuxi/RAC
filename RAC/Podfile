@@ -1,0 +1,24 @@
+platform :ios, '8.0'
+inhibit_all_warnings!
+use_frameworks!
+target ‘RAC’ do
+#pod 'ReactiveCocoa’, '~>2.5’
+#pod 'ReactiveCocoa', :git => 'https://github.com/zhao0/ReactiveCocoa.git', :tag => '2.5.2'
+pod 'ReactiveObjC','~>3.0.0'
+pod 'AFNetworking'
+pod 'SDWebImage' , '~> 3.7.3'
+pod 'MJExtension'
+pod 'MBProgressHUD'
+end
+
+
+
+post_install do |installer_representation|
+    installer_representation.pods_project.targets.each do |target|
+        target.build_configurations.each do |config|
+            config.build_settings['ARCHS'] = 'armv7 arm64'
+        end
+    end
+end
+
+
