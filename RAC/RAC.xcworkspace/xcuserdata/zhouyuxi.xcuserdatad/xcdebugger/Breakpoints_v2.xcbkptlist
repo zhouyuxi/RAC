@@ -10,13 +10,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RAC/ViewController.m"
-            timestampString = "533190365.013721"
+            timestampString = "541065057.461778"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "610"
-            endingLineNumber = "610"
-            landmarkName = "-testTuple"
-            landmarkType = "7">
+            startingLineNumber = "664"
+            endingLineNumber = "664"
+            landmarkName = "ViewController"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -26,12 +26,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RAC/ViewController.m"
-            timestampString = "533190365.014087"
+            timestampString = "541065057.462159"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "561"
-            endingLineNumber = "561"
-            landmarkName = "-plist"
+            startingLineNumber = "610"
+            endingLineNumber = "610"
+            landmarkName = "-textHong"
             landmarkType = "7">
             <Locations>
                <Location
@@ -41,13 +41,13 @@
                   symbolName = "-[ViewController plist]"
                   moduleName = "RAC"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/zhouyuxi/Desktop/RAC/RAC/ViewController.m"
-                  timestampString = "533186269.818175"
+                  urlString = "file:///Users/zhouyuxi/RAC/RAC/RAC/ViewController.m"
+                  timestampString = "541065057.519797"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "547"
-                  endingLineNumber = "547"
-                  offsetFromSymbolStart = "166">
+                  startingLineNumber = "611"
+                  endingLineNumber = "611"
+                  offsetFromSymbolStart = "184">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -56,13 +56,13 @@
                   symbolName = "__23-[ViewController plist]_block_invoke"
                   moduleName = "RAC"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/zhouyuxi/Desktop/RAC/RAC/ViewController.m"
-                  timestampString = "533186269.819593"
+                  urlString = "file:///Users/zhouyuxi/RAC/RAC/RAC/ViewController.m"
+                  timestampString = "541065057.521155"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "549"
-                  endingLineNumber = "549"
-                  offsetFromSymbolStart = "48">
+                  startingLineNumber = "613"
+                  endingLineNumber = "613"
+                  offsetFromSymbolStart = "56">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -74,12 +74,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RAC/TestView.m"
-            timestampString = "532952421.00906"
+            timestampString = "539772372.737968"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "38"
-            endingLineNumber = "38"
-            landmarkName = "-btnClick:"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "-redBtn:"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -134,61 +134,46 @@
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "-[LoginViewModel buildData]"
+                  symbolName = "__27-[LoginViewModel buildData]_block_invoke_3"
                   moduleName = "RAC"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/zhouyuxi/Desktop/RAC/RAC/LoginViewModel.m"
-                  timestampString = "533186269.831699"
+                  urlString = "file:///Users/zhouyuxi/RAC/RAC/RAC/LoginViewModel.m"
+                  timestampString = "541065057.5326689"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "74"
-                  endingLineNumber = "74"
-                  offsetFromSymbolStart = "33">
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "96">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "-[LoginViewModel buildData]"
+                  symbolName = "__copy_helper_block_.68"
                   moduleName = "RAC"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/zhouyuxi/Desktop/RAC/RAC/LoginViewModel.m"
-                  timestampString = "533186269.833245"
+                  urlString = "file:///Users/zhouyuxi/RAC/RAC/RAC/LoginViewModel.m"
+                  timestampString = "541065057.534018"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "74"
-                  endingLineNumber = "74"
-                  offsetFromSymbolStart = "44">
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "104">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "-[LoginViewModel buildData]"
+                  symbolName = "__destroy_helper_block_.69"
                   moduleName = "RAC"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/zhouyuxi/Desktop/RAC/RAC/LoginViewModel.m"
-                  timestampString = "533186269.834824"
+                  urlString = "file:///Users/zhouyuxi/RAC/RAC/RAC/LoginViewModel.m"
+                  timestampString = "541065057.535346"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "74"
-                  endingLineNumber = "74"
-                  offsetFromSymbolStart = "353">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__27-[LoginViewModel buildData]_block_invoke"
-                  moduleName = "RAC"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/zhouyuxi/Desktop/RAC/RAC/LoginViewModel.m"
-                  timestampString = "533186269.836705"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "75"
-                  endingLineNumber = "75"
-                  offsetFromSymbolStart = "75">
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "64">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -207,6 +192,38 @@
             endingLineNumber = "89"
             landmarkName = "-buildData"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LoginViewModel buildData]"
+                  moduleName = "RAC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhouyuxi/RAC/RAC/RAC/LoginViewModel.m"
+                  timestampString = "541065057.5394911"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "876">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__27-[LoginViewModel buildData]_block_invoke.80"
+                  moduleName = "RAC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhouyuxi/RAC/RAC/RAC/LoginViewModel.m"
+                  timestampString = "541065057.540923"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy

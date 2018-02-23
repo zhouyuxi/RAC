@@ -556,13 +556,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = J7MGGPEJNJ;
 				INFOPLIST_FILE = RAC/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = ZHOU.RAC;
+				PRODUCT_BUNDLE_IDENTIFIER = com.qschou.easyhealth;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE = "f954b52d-5e72-45eb-96c1-563288d58910";
+				PROVISIONING_PROFILE_SPECIFIER = qsc_dev_easyhealth_0125;
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -573,14 +574,16 @@
 			baseConfigurationReference = BF7921AFAB36962FB4815D70 /* Pods-RAC.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = J7MGGPEJNJ;
 				INFOPLIST_FILE = RAC/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = ZHOU.RAC;
+				PRODUCT_BUNDLE_IDENTIFIER = com.qschou.easyhealth;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE = "f27ce495-bea1-4847-b741-2f2965d4920d";
+				PROVISIONING_PROFILE_SPECIFIER = qsc_dis_easyhealth_0125;
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

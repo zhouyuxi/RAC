@@ -13,7 +13,6 @@
 
 -(RACSubject *)signal
 {
-    
     // 创建信号
     if(_signal == nil){
         
@@ -21,7 +20,6 @@
     }
     return _signal;
 }
-
 
 
 - (IBAction)btnClick:(id)sender {
@@ -36,7 +34,6 @@
     NSMutableArray *dataArray = [[NSMutableArray alloc] initWithObjects:@"1", @"2", @"3", nil];
     [[NSNotificationCenter defaultCenter] postNotificationName:@"111" object:dataArray];
     [self laile:@"come here"];
-
 }
 
 - (IBAction)redBtn:(id)sender {
